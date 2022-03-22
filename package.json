@@ -1,0 +1,56 @@
+{
+  "name": "is-unicode-cli",
+  "version": "1.0.0",
+  "description": "> Let you know whether the terminal supports Unicode or not",
+  "main": "index.js",
+  "type": "module",
+  "exports": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/is-unicode-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "console",
+    "unicode",
+    "unicode-cli",
+    "is-unicode-cli",
+    "terminal",
+    "unicode",
+    "detect",
+    "utf8",
+    "console",
+    "shell",
+    "support",
+    "supports",
+    "supported",
+    "check",
+    "detection",
+    "unicode-all-console",
+    "unicode console windows",
+    "unicode console macos",
+    "unicode console linux",
+    "unicode console windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/is-unicode-cli/issues"
+  },
+  "homepage": "https://github.com/csalam07/is-unicode-cli#readme",
+  "devDependencies": {
+    "ava": "^4.1.0"
+  }
+}
