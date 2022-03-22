@@ -1,12 +1,13 @@
 {
   "name": "is-unicode-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> Let you know whether the terminal supports Unicode or not",
   "main": "index.js",
   "type": "module",
   "exports": "./index.js",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
     "test": "ava"
